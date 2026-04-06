@@ -1,4 +1,4 @@
-# fourier-key-analysis
+# Fourier-Key-Analysis
 
 **"Spectral Properties of a Simple Melody Across All 12 Major Keys"**
 
