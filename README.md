@@ -153,7 +153,7 @@ GitHub. https://github.com/KemoTherapy/FourierSongs
 - Schubart, C. F. D. (1806). *Ideen zu einer Ästhetik der Tonkunst*. J. V. Degen.
 - Benson, D. J. (2007). *Music: A Mathematical Offering*. Cambridge University Press.
 
-Full references in the accompanying writeup .
+Full references in the accompanying writeup: https://doi.org/10.5281/zenodo.19440217.
 
 ---
 
