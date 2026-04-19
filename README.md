@@ -4,6 +4,8 @@
 
 Computational spectral analysis of *Twinkle Twinkle Little Star* synthesized in all 12 chromatic major keys via FFT and STFT.
 
+Disclaimer: I did this for fun lol do not take this seriously
+
 ---
 
 ## Overview
@@ -151,7 +153,7 @@ GitHub. https://github.com/KemoTherapy/FourierSongs
 - Schubart, C. F. D. (1806). *Ideen zu einer Ästhetik der Tonkunst*. J. V. Degen.
 - Benson, D. J. (2007). *Music: A Mathematical Offering*. Cambridge University Press.
 
-Full references in the accompanying manuscript.
+Full references in the accompanying writeup .
 
 ---
 
